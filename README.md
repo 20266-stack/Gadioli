@@ -1,2 +1,1 @@
-# Gadioli
-# esercitazione-git
+# mkdir Gadioli
